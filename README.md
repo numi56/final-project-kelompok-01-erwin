@@ -13,6 +13,6 @@ Problem: classification
 
 Final Model: Linear Regression
 
-Link Repositori: https://github.com/ryrimnd/final-project-kelompok-01-erwin
+Link Repositori: https://github.com/numi56/final-project-kelompok-01-erwin
 
 Link PPT: https://docs.google.com/presentation/d/1LX3Gbn4zgQ81SLsaYCUEiOZ3lBGAZpRkG8mCCIvpJmE/edit?usp=sharing
